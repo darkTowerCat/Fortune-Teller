@@ -24,7 +24,7 @@ fn responce(number:u32, max_answer:u32) {
 		0 => println!("The road is rocky now, but will be worth it."),
 		  1 => println!("Keep going you are almost there."),
 		  2 => println!("Your future is bright."),
-		  3 => println!("No matter how bad today is, tomorrow will come.")
+		  3 => println!("No matter how bad today is, tomorrow will come."),
 		  _ => println!("Focus on the light at the end of the tunnel."),
 	}
 }
